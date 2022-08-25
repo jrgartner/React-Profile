@@ -1,0 +1,19 @@
+{
+  "name": "react-profile",
+  "version": "1.0.0",
+  "description": "react profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgartner/React-Profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgartner/React-Profile/issues"
+  },
+  "homepage": "https://github.com/jrgartner/React-Profile#readme"
+}
