@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@600&family=Raleway:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+html,
+body {
+  height: 100%;
+  color: white;
+  background-color: #252525;
+}
+
+body {
+    min-height: 100%;
+    line-height: 1;
+    font-family: sans-serif;
+    display: flex;
+    height: fit-content;
+}
+
+h1 {
+    font-size: 5vw;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1em;
+}
+
+h2 {
+    font-size: 3vw;
+    margin-bottom: 0;
+    font-weight: 600;
+    padding: 0;
+}
+
+h5 {
+    font-size: 1.4vw;
+}
+h6 {
+    font-size: 1vw;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #f19b2c;
+}
+
+p {
+    margin-bottom: .2em;
+}
+
+
+#root {
+    width: 100%;
+}
+
+.orange {
+    color: #f19b2c
+}
+
+.project-container img:hover {
+    box-shadow:  0px 0px 8px #f19b2c, 0 0 15px #f19b2c;
+    filter: blur(0px);
+}
